@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-fdf79ae4c991c0fee25e2abf0ef08b33bd8a6991.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-49cddbd5ebd244b94e8a3df49b3753f48b77a9e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-9566ab2c5b0197be375e6ae57da21c807e42e5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-f46597a72d3b1e4bee8c3ec8aad529291eb6e00a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-f46597a72d3b1e4bee8c3ec8aad529291eb6e00a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-729ba344e2f2afc82036e54e2d47190a6e518c9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-d65a919b292aed4d7fc0b9b9d670908c82a516db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-9a5ac73212c5044ed3630492c4eff516c6658f71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-9566ab2c5b0197be375e6ae57da21c807e42e5f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-cbbf2a3c06ad45c5592d55d9d8d2444d40dcb4a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-49cddbd5ebd244b94e8a3df49b3753f48b77a9e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-a9b7a3d7eb282741997e8be8cd4e23256974ff80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-fdf79ae4c991c0fee25e2abf0ef08b33bd8a6991.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-e425fb4019357fd0fc254910311272e94bbbdeb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-3d2d9412ed334828f3cfe87a16645febb66677c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-a38a96fdecceaf0ef170430e5a3956358f818318.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-5a0697815a98c039eaad38bf585f5eb7dd9d4428.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-eb1795bd0828a7cb46f5dca4f2113102b5a8af86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-46317fa4131c946fe80fbaf83495dc1e3ad164b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-b966df90a0ce113a0e883ff052af57c0df2dc93a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-c56dc098e8579ddee0000acd22658359ff1f5aaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-013fb3f59f9c3924c18b7f84a89c25d07e5118a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-571b16e07265dd14f2e70e56ba65dd21fdf2a4b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-116e2238f96f1c4101a0544c04b16482531d95e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-d65a919b292aed4d7fc0b9b9d670908c82a516db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-59de8e727847dd74f6d9af33b9e58d554047a441.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-c56dc098e8579ddee0000acd22658359ff1f5aaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-59de8e727847dd74f6d9af33b9e58d554047a441.jar" />
+    </item>
+    <item
+        jar="E:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-55a971f369091f80f1623cbfe096a71584a469d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-116e2238f96f1c4101a0544c04b16482531d95e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-a9b7a3d7eb282741997e8be8cd4e23256974ff80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-3d2d9412ed334828f3cfe87a16645febb66677c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-5a0697815a98c039eaad38bf585f5eb7dd9d4428.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-5f1cf64eb37ff4c0ae280a94cd7dbe5d86b779b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-571b16e07265dd14f2e70e56ba65dd21fdf2a4b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-eb1795bd0828a7cb46f5dca4f2113102b5a8af86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-46317fa4131c946fe80fbaf83495dc1e3ad164b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-729ba344e2f2afc82036e54e2d47190a6e518c9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-80d4056b925c8345d98ad012d5183fe194f4240a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-a38a96fdecceaf0ef170430e5a3956358f818318.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-b966df90a0ce113a0e883ff052af57c0df2dc93a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-cbbf2a3c06ad45c5592d55d9d8d2444d40dcb4a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-9a5ac73212c5044ed3630492c4eff516c6658f71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Siva Prasad\AndroidStudioProjects\RecipeMagic\app\build\intermediates\pre-dexed\debug\classes-013fb3f59f9c3924c18b7f84a89c25d07e5118a7.jar" />
+    </item>
+
+</items>
